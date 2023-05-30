@@ -3,7 +3,7 @@
 
 ## Requirements 
 - You should have node installed, I use v18.15, sorry I just install node so I install the last version
-- You should have running the docker service described in this [url](https://bitbucket.org/platformscience/pltsci-sdet-assignment/src/main/)
+- You should have running the docker service described in this  <a href="https://bitbucket.org/platformscience/pltsci-sdet-assignment/src/main/" target="_blank">url</a>
 
 ### Steps to run
 1. Clone the project
